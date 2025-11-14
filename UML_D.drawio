@@ -254,6 +254,9 @@
         <mxCell id="1vvSZfsBi1uKCs9rnKeU-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DATABASES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(transparent,#FDFFF9);fillColor=light-dark(transparent,#000066);align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1vvSZfsBi1uKCs9rnKeU-83">
           <mxGeometry x="250" y="20" width="300" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1vvSZfsBi1uKCs9rnKeU-84" value="SIDICK" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="250" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
